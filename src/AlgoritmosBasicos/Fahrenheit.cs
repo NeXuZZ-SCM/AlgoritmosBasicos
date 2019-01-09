@@ -4,7 +4,7 @@
     {
         public decimal CelsiusToFahrenheit(decimal celsius)
         {
-            return 0; 
+            return celsius*9/5+32; 
         }
     }
 }
