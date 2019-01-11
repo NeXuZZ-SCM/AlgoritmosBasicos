@@ -13,4 +13,10 @@ Edta el archivo deseaso y ejecuta el comando
 
 ```sh
 dotnet test
-```sh
+```
+
+La serie comleta estara publicada en https://aspnetcoremaster.com/ si tienes alguna duda. Deja un comentario.
+
+Si usas Visual Studio 2017 ejecuta las pruebsas desde ``Pruebas > Ventanas > Explorador de Pruebas``
+
+![Ventana de pruebas Visual Studio 2017]("Pruebas.PNG")
