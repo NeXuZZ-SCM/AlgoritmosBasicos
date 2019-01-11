@@ -4,7 +4,12 @@ using System.Text;
 
 namespace AlgoritmosBasicos
 {
-    class Factorial
+    public class Factorial
     {
+        public long CalculaFactorial(long numero)
+        {
+
+            return 0L;
+        }
     }
 }

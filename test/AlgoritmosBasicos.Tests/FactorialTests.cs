@@ -5,13 +5,16 @@ namespace AlgoritmosBasicos.Tests
     public class FactorialTests
     {
         [Theory]
-        [InlineData("oso", "oso")]
-        [InlineData("hola", "aloh")]
-        [InlineData("yo Programo", "omargorP oy")]
-        public void InvertirCadena(string entrada, string esperado)
+        [InlineData(0, 1)]
+        [InlineData(1, 1)]
+        [InlineData(6, 720)]
+        [InlineData(10, 3628800)]
+        [InlineData(20, 2432902008176640000)]
+      
+        public void CalculaFactorialTest(long entrada, long esperado)
         {
-            var invertirCadena = new InvierteCadena();
-            var resultado = invertirCadena.InvertirCadena(entrada);
+            var factorial = new Factorial();
+            var resultado = factorial.CalculaFactorial(entrada);
             Assert.Equal(esperado, resultado);
         }
     }
