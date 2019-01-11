@@ -19,4 +19,4 @@ La serie comleta estara publicada en https://aspnetcoremaster.com/ si tienes alg
 
 Si usas Visual Studio 2017 ejecuta las pruebsas desde ``Pruebas > Ventanas > Explorador de Pruebas``
 
-![Ventana de pruebas Visual Studio 2017]("Pruebas.PNG")
+![Ventana de pruebas Visual Studio 2017](Pruebas.PNG)
