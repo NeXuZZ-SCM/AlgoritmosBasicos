@@ -9,6 +9,7 @@
         /// <returns>cadena invertida</returns>
         public string InvertirCadena(string entrada)
         {
+            //Escribe tu respuesta aquí
             return entrada;
         }
     }

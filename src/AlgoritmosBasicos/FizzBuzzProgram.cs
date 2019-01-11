@@ -13,7 +13,7 @@
         /// <returns>decimal</returns>
         public string FizzBuzz(int number)
         {
-            
+            //Escribe tu respuesta aquí
             return string.Empty;
         }
     }

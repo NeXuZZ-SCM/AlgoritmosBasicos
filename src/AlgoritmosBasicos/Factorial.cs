@@ -13,7 +13,7 @@ namespace AlgoritmosBasicos
         /// <returns>factorial del número</returns>
         public long CalculaFactorial(long numero)
         {
-
+            //Escribe tu respuesta aquí
             return 0L;
         }
     }
